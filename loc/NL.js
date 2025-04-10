@@ -887,7 +887,7 @@ AddLanguage('NL','dutch',{
 		"%1 Tineke Sieders",
 		"%1 Tineke Sieders"
 	],
-	"[Grandma quote]A nice grandma to bake more cookies.": "Een lief omaatje die tineke koekjes voor je bakt.",
+	"[Grandma quote]A nice grandma to bake more cookies.": "Een milf die koekjes bakt",
 	"[Grandma business name]Oven": "Oven",
 	"[Grandma business quote]A crucial element of baking cookies.": "Een essentieel apparaat om tineke koekjes te kunnen bakken.",
 	"Farm": "Slavenij",
@@ -917,7 +917,7 @@ AddLanguage('NL','dutch',{
 		"%1 Rogier Eradus",
 		"%1 Rogier Eradus"
 	],
-	"[Factory quote]Produces large quantities of cookies.": "Produceert grote hoeveelheden tineke koekjes.",
+	"[Factory quote]Produces large quantities of cookies.": "Doet koekjes in de frituurpan",
 	"[Factory business name]Factory": "Fabriek",
 	"[Factory business quote]Mass production is the future of baking. Seize the day, and synergize!": "Massaproductie is de toekomst van bakken. Maak er gebruik van!",
 	"Bank": "Rabobank",
@@ -927,7 +927,7 @@ AddLanguage('NL','dutch',{
 		"%1 bank",
 		"%1 banken"
 	],
-	"[Bank quote]Generates cookies from interest.": "Genereert tineke koekjes uit rente.",
+	"[Bank quote]Generates cookies from interest.": "Genereert tineke koekjes door medewerkers te oplichten",
 	"[Bank business name]Investor": "Investeerder",
 	"[Bank business quote]Business folks with a nose for profit, ready to finance your venture as long as there's money to be made.": "Zakenmensen die een neus hebben voor winst en die jouw onderneming best willen financieren, als er maar geld mee te verdienen is.",
 	"Temple": "Jan Eradus",
@@ -947,7 +947,7 @@ AddLanguage('NL','dutch',{
 		"%1 Dildo",
 		"%1 Dildos"
 	],
-	"[Wizard tower quote]Summons cookies with magic spells.": "Roept tineke koekjes op met magische toverspreuken.",
+	"[Wizard tower quote]Summons cookies with magic spells.": "Wordt gebruikt om tineke sieders blij te maken, Ruikt naar vis...",
 	"[Wizard tower business name]Meme": "Meme",
 	"[Wizard tower business quote]Cookie memes are all the rage! With just the right amount of social media astroturfing, your brand image will be all over the cyberspace.": "Koekjesmemes zijn helemaal hot! Zorg dat je genoeg reviews op sociale media hebt, en dan gaat je merk de hele cyberspace over.",
 	"Shipment": "Banaan Joran",
@@ -957,7 +957,7 @@ AddLanguage('NL','dutch',{
 		"%1 Banaan Joran",
 		"%1 Bananen Joran"
 	],
-	"[Shipment quote]Brings in fresh cookies from the cookie planet.": "Haalt verse tineke koekjes van de koekjesplaneet.",
+	"[Shipment quote]Brings in fresh cookies from the cookie planet.": "Zit te streamen op tiktok in een kanker banaanpak",
 	"[Shipment business name]Supermarket": "Supermarkt",
 	"[Shipment business quote]A gigantic cookie emporium - your very own retail chain.": "Een gigantisch koekjesmagazijn: je eigen retailketen.",
 	"Alchemy lab": "Alchemielab",
