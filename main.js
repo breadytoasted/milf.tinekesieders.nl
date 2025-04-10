@@ -1335,12 +1335,24 @@ Game.Launch=function()
 	'<div class="title">&bull; BELANGRIJK!!</div>'+
 	'<div class="listing">&bull; Rechtsboven in moet je op de knop "Naar de betere taal gaan" klikken. Als je dat doet klik dan op "Kies deze!!!", Dit is omdat Cookie Clicker kanker code heeft en bijna niks leuk vindt. </div>'+
 	'<div class="title">&bull; Heb je nog ideeën? Stuur het naar info@tinekesieders.nl</div>'+
-        
+      
     '</div><div class="subsection update">'+
+	'<div class="title">28/04/2025 - GROTE UPDATE!!!</div>'+
+	'<div class="listing">&bull; Nieuwe icoontjes.</div>'+
+	'<div class="listing">&bull; Nieuwe namen voor omas.</div>'+
+	'<div class="listing">&bull; Als je op de cookie klikt komen er kleine tineke omas er uit.(nog doen) </div>'+
+	'<div class="listing">&bull; Meer custom achievements namen.</div>'+
+	'<div class="listing">&bull; 2x Nieuwe Gebouwen.</div>'+
+
+	'</div><div class="subsection update">'+
 	'<div class="title">28/03/2025 - 21/04/2025 - Stoppen met updates.</div>'+
 	'<div class="listing">&bull; i.v.m stage stopt tinekesieders.nl met updates, Dit is niet tijdelijk. In de vakantie komt een grote update.</div>'+
-
+        
     '</div><div class="subsection update">'+
+	'<div class="title">10/04/2025 - Mail werkt weer.</div>'+
+	'<div class="listing">&bull; Mail was voor een poos kapot, nu weet gefixed.</div>'+
+    
+	'</div><div class="subsection update">'+
 	'<div class="title">26/03/2025 - Kleine patchnotes 5.0</div>'+
 	'<div class="listing">&bull; Paar upgrade plaatjes zijn veranderd.</div>'+
 
