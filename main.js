@@ -1343,6 +1343,7 @@ Game.Launch=function()
 	'<div class="listing">&bull; Als je op de cookie klikt komen er kleine tineke omas er uit.(nog doen) </div>'+
 	'<div class="listing">&bull; Meer custom achievements namen.</div>'+
 	'<div class="listing">&bull; 2x Nieuwe Gebouwen.</div>'+
+	'<div class="listing">&bull; Nieuwe achtergrond!! (Tip: Zwart)</div>'+
 
 	'</div><div class="subsection update">'+
 	'<div class="title">28/03/2025 - 21/04/2025 - Stoppen met updates.</div>'+
