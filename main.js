@@ -1338,13 +1338,20 @@ Game.Launch=function()
       
     '</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!!</div>'+
-	'<div class="listing">&bull; Nieuwe icoontjes.</div>'+
+	'<div class="listing">&bull; Jan Eradus & Banaan Joran toevegoegd, Ideeën? info@tinekesieders.nl</div>'+
 	'<div class="listing">&bull; Nieuwe namen voor omas.</div>'+
-	'<div class="listing">&bull; Als je op de cookie klikt komen er kleine tineke omas er uit.(nog doen) </div>'+
+	'<div class="listing">&bull; Op de koekje klikken krijg je nu tinekes, nog niet allemaal. </div>'+
 	'<div class="listing">&bull; Meer custom achievements namen.</div>'+
 	'<div class="listing">&bull; 2x Nieuwe Gebouwen.</div>'+
-	'<div class="listing">&bull; Nieuwe achtergrond!! (Tip: Zwart)</div>'+
+	'<div class="listing">&bull; 3x Nieuwe achtergrond!!</div>'+
 	'<div class="listing">&bull; Achtergrond van Jan Eradus & Banaan Joran zijn veranderd naar de goeie.</div>'+
+	'<div class="listing">&bull; Sommige icoontjes hebben een duif, Henry de duif.</div>'+
+    '<div class="listing">&bull; Een paar upgrades hebben een andere naam of een plaatje.</div>'+
+	
+	'</div><div class="subsection update">'+
+	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
+	'<div class="listing">&bull; Saysopensesame werkt weer, Het is alleen iets anders (kut-tineke), Voordat je gaat hacken save je code in een bestand.</div>'+
+	'<div class="listing">&bull; Veel icoontjes waren weg, Allemaal weer gefixed.</div>'+
 
 	'</div><div class="subsection update">'+
 	'<div class="title">28/03/2025 - 21/04/2025 - Stoppen met updates.</div>'+
