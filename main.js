@@ -1347,11 +1347,14 @@ Game.Launch=function()
 	'<div class="listing">&bull; Achtergrond van Jan Eradus & Banaan Joran zijn veranderd naar de goeie.</div>'+
 	'<div class="listing">&bull; Sommige icoontjes hebben een duif, Henry de duif.</div>'+
     '<div class="listing">&bull; Een paar upgrades hebben een andere naam of een plaatje.</div>'+
+	'<div class="listing">&bull; Achtergronden in het spel zijn anders.</div>'+
+	'<div class="listing">&bull; De icoontjes van de achtergronden zijn net als de achtergrond.</div>'+
 	
 	'</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
 	'<div class="listing">&bull; Saysopensesame werkt weer, Het is alleen iets anders (kut-tineke), Voordat je gaat hacken save je code in een bestand.</div>'+
 	'<div class="listing">&bull; Veel icoontjes waren weg, Allemaal weer gefixed.</div>'+
+	'<div class="listing">&bull; Game was kapot toen ik een naam veranderde... nu niet meer!!</div>'+
 
 	'</div><div class="subsection update">'+
 	'<div class="title">28/03/2025 - 21/04/2025 - Stoppen met updates.</div>'+
@@ -10453,7 +10456,7 @@ Game.Launch=function()
 			{pic:'bgBlue',name:'Blue',icon:[21,21]},
 			{pic:'bgRed',name:'Red',icon:[22,21]},
 			{pic:'bgWhite',name:'White',icon:[23,21]},
-			{pic:'bgBlack',name:'Black',icon:[24,21]},
+			{pic:'bgBlack',name:'Rogier van Minecraft',icon:[24,21]},
 			{pic:'bgGold',name:'Gold',icon:[25,21]},
 			{pic:'grandmas1',name:'Grandmas',icon:[26,21]},
 			{pic:'grandmas2',name:'Displeased grandmas',icon:[27,21]},
@@ -10467,9 +10470,9 @@ Game.Launch=function()
 			{pic:'bgSpectrum',name:'Spectrum',icon:[28,22],order:4.2},
 			{pic:'bgCandy',name:'Duif spuit op vrouw',icon:[26,22]},
 			{pic:'bgYellowBlue',name:'Biscuit store',icon:[27,22]},
-			{pic:'bgChoco',name:'Chocolate',icon:[30,21]},
+			{pic:'bgChoco',name:'Duif selfie met wijf ofzo',icon:[30,21]},
 			{pic:'bgChocoDark',name:'Dark Chocolate',icon:[31,21]},
-			{pic:'bgPaint',name:'Painter',icon:[24,34]},
+			{pic:'bgPaint',name:'Jan Eradus daggoe',icon:[24,34]},
 			{pic:'bgSnowy',name:'Snow',icon:[30,22]},
 			{pic:'bgSky',name:'Sky',icon:[29,22]},
 			{pic:'bgStars',name:'Night',icon:[31,22]},
