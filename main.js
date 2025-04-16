@@ -10465,7 +10465,7 @@ Game.Launch=function()
 			{pic:'bgSilver',name:'Silver',icon:[25,22],order:4.9},
 			{pic:'bgBW',name:'Black & White',icon:[23,22],order:4.1},
 			{pic:'bgSpectrum',name:'Spectrum',icon:[28,22],order:4.2},
-			{pic:'bgCandy',name:'Candy',icon:[26,22]},
+			{pic:'bgCandy',name:'Duif spuit op vrouw',icon:[26,22]},
 			{pic:'bgYellowBlue',name:'Biscuit store',icon:[27,22]},
 			{pic:'bgChoco',name:'Chocolate',icon:[30,21]},
 			{pic:'bgChocoDark',name:'Dark Chocolate',icon:[31,21]},
