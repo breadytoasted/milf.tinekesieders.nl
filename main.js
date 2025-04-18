@@ -1345,10 +1345,13 @@ Game.Launch=function()
 	'<div class="listing">&bull; 2x Nieuwe Gebouwen.</div>'+
 	'<div class="listing">&bull; 3x Nieuwe achtergrond!!</div>'+
 	'<div class="listing">&bull; Achtergrond van Jan Eradus & Banaan Joran zijn veranderd naar de goeie.</div>'+
-	'<div class="listing">&bull; Sommige icoontjes hebben een duif, Henry de duif.</div>'+
+	'<div class="listing">&bull; Sommige koekjes bij Stats & Upgrades hebben een duif, Henry de duif.</div>'+
     '<div class="listing">&bull; Een paar upgrades hebben een andere naam of een plaatje.</div>'+
 	'<div class="listing">&bull; Achtergronden in het spel zijn anders.</div>'+
 	'<div class="listing">&bull; De icoontjes van de achtergronden zijn net als de achtergrond.</div>'+
+	'<div class="listing">&bull; 20x Upgrade namen zijn anders.</div>'+
+	'<div class="listing">&bull; leeg.</div>'+
+	'<div class="listing">&bull; leeg.</div>'+
 	
 	'</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
