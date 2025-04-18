@@ -10474,7 +10474,7 @@ Game.Launch=function()
 			{pic:'bgCandy',name:'Duif spuit op vrouw',icon:[26,22]},
 			{pic:'bgYellowBlue',name:'Biscuit store',icon:[27,22]},
 			{pic:'bgChoco',name:'Duif selfie met wijf ofzo',icon:[30,21]},
-			{pic:'bgChocoDark',name:'Dark Chocolate',icon:[31,21]},
+			{pic:'bgChocoDark',name:'Tineke lijkt op de terminator',icon:[31,21]},
 			{pic:'bgPaint',name:'Jan Eradus daggoe',icon:[24,34]},
 			{pic:'bgSnowy',name:'Snow',icon:[30,22]},
 			{pic:'bgSky',name:'Sky',icon:[29,22]},
