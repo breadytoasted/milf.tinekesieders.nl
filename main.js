@@ -1351,7 +1351,7 @@ Game.Launch=function()
 	'<div class="listing">&bull; De icoontjes van de achtergronden zijn net als de achtergrond.</div>'+
 	'<div class="listing">&bull; 20x Upgrade namen zijn anders.</div>'+
 	'<div class="listing">&bull; Heel veel koekjes zijn veranderd.</div>'+
-	'<div class="listing">&bull; leeg.</div>'+
+	'<div class="listing">&bull; Nieuwe achtergrond van Tineke Sieders die op de terminator lijkt.</div>'+
 	
 	'</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
