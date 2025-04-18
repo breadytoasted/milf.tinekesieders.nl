@@ -1337,7 +1337,7 @@ Game.Launch=function()
 	'<div class="title">&bull; Heb je nog ideeën? Stuur het naar info@tinekesieders.nl</div>'+
       
     '</div><div class="subsection update">'+
-	'<div class="title">28/04/2025 - GROTE UPDATE!!!</div>'+
+	'<div class="title">28/04/2025 - GROTE UPDATE!!! (Alle updates staan in volgorde)</div>'+
 	'<div class="listing">&bull; Jan Eradus & Banaan Joran toevegoegd, Ideeën? info@tinekesieders.nl</div>'+
 	'<div class="listing">&bull; Nieuwe namen voor omas.</div>'+
 	'<div class="listing">&bull; Op de koekje klikken krijg je nu tinekes, nog niet allemaal. </div>'+
@@ -1350,7 +1350,7 @@ Game.Launch=function()
 	'<div class="listing">&bull; Achtergronden in het spel zijn anders.</div>'+
 	'<div class="listing">&bull; De icoontjes van de achtergronden zijn net als de achtergrond.</div>'+
 	'<div class="listing">&bull; 20x Upgrade namen zijn anders.</div>'+
-	'<div class="listing">&bull; leeg.</div>'+
+	'<div class="listing">&bull; Heel veel koekjes zijn veranderd.</div>'+
 	'<div class="listing">&bull; leeg.</div>'+
 	
 	'</div><div class="subsection update">'+
