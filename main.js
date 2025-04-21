@@ -1308,7 +1308,7 @@ Game.Launch=function()
 	
 	Game.updateLog=
 	'<div class="selectable">'+
-	'<div class="section">'+loc("TINEKESIEDERS.NL UPDATES")+'</div>'+
+	'<div class="section">'+loc("MILF.TINEKESIEDERS.NL UPDATES")+'</div>'+
 	'<div class="subsection">'+
     '</div><div class="subsection">'
 	
