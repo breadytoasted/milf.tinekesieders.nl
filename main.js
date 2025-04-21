@@ -1352,6 +1352,7 @@ Game.Launch=function()
 	'<div class="listing">&bull; 20x Upgrade namen zijn anders.</div>'+
 	'<div class="listing">&bull; Heel veel koekjes zijn veranderd.</div>'+
 	'<div class="listing">&bull; Nieuwe achtergrond van Tineke Sieders die op de terminator lijkt.</div>'+
+	'<div class="listing">&bull; milf.tinekesieders.nl krijgt eerdere updates, Speel hier niet op want je gamesave wordt toch altijd gereset wanneer er een nieuwe update komt.</div>'+
 	
 	'</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
