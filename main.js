@@ -1354,7 +1354,7 @@ Game.Launch=function()
 	'<div class="listing">&bull; Nieuwe achtergrond van Tineke Sieders die op de terminator lijkt.</div>'+
 	'<div class="listing">&bull; Bijna heel de familie van Sieders zit in de game</div>'+
 	'<div class="listing">&bull; Nieuwe achtergrond, Tineke die niet Engels kan in een facebook comment.</div>'+
-	'<div class="listing">&bull; REPLACE</div>'+
+	'<div class="listing">&bull; Als je op Tineke klikt, komen er gezichten van Tineke. Nog niet alle zijn tineke maar veel wel.</div>'+
 	'<div class="listing">&bull; REPLACE</div>'+
 	
 	'</div><div class="subsection update">'+
@@ -1425,14 +1425,14 @@ Game.Launch=function()
 	
 	
 	'</div><div class="subsection update">'+
-	'<div class="title">28/02/2025 - tinekesieders.nl Cookie Clicker Update</div>'+
+	'<div class="title">27/02/2025 (Tijd: 17:41) - tinekesieders.nl Cookie Clicker Update</div>'+
 	'<div class="listing">&bull; De eerste Tineke Klikker Update!</div>'+
 	'<div class="listing">&bull; Cookie is haar hoofd.</div>'+
 	'<div class="listing">&bull; Nieuwe plaatjes aan de zijkant.</div>'+
 	'<div class="listing">&bull; Tineke Sieders in het lingerie.</div>'+
 		
 	'</div><div class="subsection update">'+
-	'<div class="title">26/02/2025 - tinekesieders.nl linkte naar pornhub update...</div>'+
+	'<div class="title">27/02/2025 (Tijd: 00:17) - tinekesieders.nl linkte naar pornhub update...</div>'+
 	'<div class="listing">&bull; Foto van Tineke</div>'+
 	'<div class="listing">&bull; Klik je erop ging je naar pornhub</div>'+
 	'<div class="listing">&bull; Mocht niet van Jan</div>'+
