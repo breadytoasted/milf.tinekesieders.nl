@@ -1355,7 +1355,11 @@ Game.Launch=function()
 	'<div class="listing">&bull; Bijna heel de familie van Sieders zit in de game</div>'+
 	'<div class="listing">&bull; Nieuwe achtergrond, Tineke die niet Engels kan in een facebook comment.</div>'+
 	'<div class="listing">&bull; Als je op Tineke klikt, komen er gezichten van Tineke. Nog niet alle zijn tineke maar veel wel.</div>'+
-	'<div class="listing">&bull; REPLACE</div>'+
+	'<div class="listing">&bull; REPLACE.</div>'+
+	'<div class="listing">&bull; REPLACE.</div>'+
+	'<div class="listing">&bull; REPLACE.</div>'+
+	'<div class="listing">&bull; REPLACE.</div>'+
+	'<div class="listing">&bull; REPLACE.</div>'+
 	
 	'</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
