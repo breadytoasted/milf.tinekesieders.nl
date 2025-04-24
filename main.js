@@ -1352,7 +1352,10 @@ Game.Launch=function()
 	'<div class="listing">&bull; 20x Upgrade namen zijn anders.</div>'+
 	'<div class="listing">&bull; Heel veel koekjes zijn veranderd.</div>'+
 	'<div class="listing">&bull; Nieuwe achtergrond van Tineke Sieders die op de terminator lijkt.</div>'+
-	'<div class="listing">&bull; milf.tinekesieders.nl krijgt eerdere updates, Speel hier niet op want je gamesave wordt toch altijd gereset wanneer er een nieuwe update komt.</div>'+
+	'<div class="listing">&bull; Bijna heel de familie van Sieders zit in de game</div>'+
+	'<div class="listing">&bull; Nieuwe achtergrond, Tineke die niet Engels kan in een facebook comment.</div>'+
+	'<div class="listing">&bull; REPLACE</div>'+
+	'<div class="listing">&bull; REPLACE</div>'+
 	
 	'</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
@@ -2016,7 +2019,7 @@ Game.Launch=function()
 		
 		Game.externalDataLoaded=false;
 		
-		Game.grandmaNames=['Milfje','Seksslaaf','Tineke Sieders','Jan Eradus','Joran Eradus','Rogier Eradus','Pussy_Destroyer24','Obama','Trump','Putin','Michel Eradus','Nina Eradus','Richard Eradus','Xiyang Ling-Ling','Henry De Balhaar','Igor Vladimir Gorbatsjov','Geile Befbever','https://www.facebook.com/tsieders','Geer-truida Lenten','Je moeder heet henk','Je vader heet henk','Easytoys Medewerker','Nikki Tempel','Blauwe 4 kaar van Uno',"Seksclub De Paarse Neger Medewerker",'Kleine worm van Jan','Vader heeft mij geslagen','241 Landen','Nigeria','Niger','Kaasfabriek','Sharon Rundervoort','henk','Ludwig Naberman','Henk-Jan De 45ste','Sexy Sieders', 'Keano van der weide'];
+		Game.grandmaNames=['Milfje','Seksslaaf','Tineke Sieders','Jan Eradus','Joran Eradus','Rogier Eradus','Dana Brantley-Sieders','Elly Sakko-Sieders','Renee Sieders','Jody Prak (Sieders)','Ramona Sieders','Jantina De Jonge-Sieders','Michel Eradus','Nina Eradus','Richard Eradus','Obama','Trump','Putin','Xiyang Ling-Ling','Henry De Balhaar','Igor Vladimir Gorbatsjov','Geile Befbever','https://www.facebook.com/tsieders','Geer-truida Lenten','Je moeder heet henk','Je vader heet henk','Easytoys Medewerker','Nikki Tempel','Blauwe 4 kaar van Uno','Kleine worm van Jan','Papa Weg','Nigeria','Niger','Kaasfabriek','henk','Henk-Jan De 45ste','Sexy Sieders', 'Keano van der weide'];
 		Game.customGrandmaNames=[];
 		Game.heralds=0;
 		
@@ -10469,7 +10472,7 @@ Game.Launch=function()
 			{pic:'bgPurple',name:'Purple',icon:[21,22],order:1.1},
 			{pic:'bgPink',name:'Pink',icon:[24,22],order:2.1},
 			{pic:'bgMint',name:'Mint',icon:[22,22],order:2.2},
-			{pic:'bgSilver',name:'Silver',icon:[25,22],order:4.9},
+			{pic:'bgSilver',name:'Tineke kan geen Engels',icon:[25,22],order:4.9},
 			{pic:'bgBW',name:'Black & White',icon:[23,22],order:4.1},
 			{pic:'bgSpectrum',name:'Spectrum',icon:[28,22],order:4.2},
 			{pic:'bgCandy',name:'Duif spuit op vrouw',icon:[26,22]},
