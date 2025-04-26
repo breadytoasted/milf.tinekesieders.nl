@@ -1363,7 +1363,7 @@ Game.Launch=function()
 	
 	'</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
-	'<div class="listing">&bull; Saysopensesame werkt weer, Het is alleen iets anders (kut-tineke), Voordat je gaat hacken save je code in een bestand.</div>'+
+	'<div class="listing">&bull; Saysopensesame werkt half.</div>'+
 	'<div class="listing">&bull; Veel icoontjes waren weg, Allemaal weer gefixed.</div>'+
 	'<div class="listing">&bull; Game was kapot toen ik een naam veranderde... nu niet meer!!</div>'+
 
