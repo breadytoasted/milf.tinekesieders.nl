@@ -1356,9 +1356,9 @@ Game.Launch=function()
 	'<div class="listing">&bull; Nieuwe achtergrond, Tineke die niet Engels kan in een facebook comment.</div>'+
 	'<div class="listing">&bull; Als je op Tineke klikt, komen er gezichten van Tineke. Nog niet alle zijn tineke maar veel wel.</div>'+
 	'<div class="listing">&bull; Tijd van de eerste 2 updates erbij gezet, heb ze weer gevonden.</div>'+
-	'<div class="listing">&bull; REPLACE</div>'+
-	'<div class="listing">&bull; REPLACE</div>'+
-	'<div class="listing">&bull; REPLACE</div>'+
+	'<div class="listing">&bull; Een nieuwe achtergrond van Tineke Sieders met de gang.</div>'+
+	'<div class="listing">&bull; Paar koekjes zijn veranderd.</div>'+
+	'<div class="listing">&bull; 3 Achtergrond namen zijn veranderd naar een meer accurate naam.</div>'+
 	'<div class="listing">&bull; REPLACE</div>'+
 	
 	'</div><div class="subsection update">'+
@@ -10469,13 +10469,13 @@ Game.Launch=function()
 			{pic:'bgWhite',name:'White',icon:[23,21]},
 			{pic:'bgBlack',name:'Rogier van Minecraft',icon:[24,21]},
 			{pic:'bgGold',name:'Gold',icon:[25,21]},
-			{pic:'grandmas1',name:'Grandmas',icon:[26,21]},
-			{pic:'grandmas2',name:'Displeased grandmas',icon:[27,21]},
-			{pic:'grandmas3',name:'Angered grandmas',icon:[28,21]},
+			{pic:'grandmas1',name:'Tinekes',icon:[26,21]},
+			{pic:'grandmas2',name:'Boze Tineke',icon:[27,21]},
+			{pic:'grandmas3',name:'Veel bozere Tineke',icon:[28,21]},
 			{pic:'bgMoney',name:'Money',icon:[29,21]},
 			{pic:'bgPurple',name:'Purple',icon:[21,22],order:1.1},
 			{pic:'bgPink',name:'Pink',icon:[24,22],order:2.1},
-			{pic:'bgMint',name:'Mint',icon:[22,22],order:2.2},
+			{pic:'bgMint',name:'Tineke met de gang',icon:[22,22],order:2.2},
 			{pic:'bgSilver',name:'Tineke kan geen Engels',icon:[25,22],order:4.9},
 			{pic:'bgBW',name:'Black & White',icon:[23,22],order:4.1},
 			{pic:'bgSpectrum',name:'Spectrum',icon:[28,22],order:4.2},
