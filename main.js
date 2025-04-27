@@ -1361,8 +1361,9 @@ Game.Launch=function()
 	'<div class="listing">&bull; Een nieuwe achtergrond van Tineke Sieders met de gang.</div>'+
 	'<div class="listing">&bull; Paar koekjes zijn veranderd.</div>'+
 	'<div class="listing">&bull; 3 Achtergrond namen zijn veranderd naar een meer accurate naam.</div>'+
-	'<div class="listing">&bull; Nieuwe domains.</div>'+
+	'<div class="listing">&bull; Nieuwe domains, Dus meer websites van Tineke Sieders Company.</div>'+
 	'<div class="listing">&bull; Linksboven in kan je op Tineke Sieders Company klikken voor alle domains, Of bij updates helemaal boven.</div>'+
+	'<div class="listing">&bull; Er zijn nieuwe links toegevoegd helemaal boven aan de site.</div>'+
 	
 	'</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
