@@ -2078,10 +2078,10 @@ Game.Launch=function()
 				Game.showLangSelection();
 			});
 			
-			Game.attachTooltip(l('topbarOrteil'),'<div style="padding:8px;width:250px;text-align:center;">Tineke Website.</div>'+tinyIcon([17,5],'display:block;margin:-12px auto;'),'this');
-			Game.attachTooltip(l('topbarDashnet'),'<div style="padding:8px;width:250px;text-align:center;">Dit doet niks!</div>','this');
-			Game.attachTooltip(l('topbarTwitter'),'<div style="padding:8px;width:250px;text-align:center;">Frankdevisser.nl</div>','this');
-			Game.attachTooltip(l('topbarTumblr'),'<div style="padding:8px;width:250px;text-align:center;">Wietklapper.nl</div>','this');
+			Game.attachTooltip(l('topbarOrteil'),'<div style="padding:8px;width:250px;text-align:center;">Tineke Website.</div>','this');
+			Game.attachTooltip(l('topbarDashnet'),'<div style="padding:8px;width:250px;text-align:center;">Alles van Tinekesieders.nl</div>','this');
+			Game.attachTooltip(l('topbarTwitter'),'<div style="padding:8px;width:250px;text-align:center;">Frankdevisser.nl (Minesweeper)</div>','this');
+			Game.attachTooltip(l('topbarTumblr'),'<div style="padding:8px;width:250px;text-align:center;">Wietklapper.nl(Wietklikker)</div>','this');
 			Game.attachTooltip(l('topbarDiscord'),'<div style="padding:8px;width:250px;text-align:center;">Doet niks</div>','this');
 			Game.attachTooltip(l('topbarPatreon'),'<div style="padding:8px;width:250px;text-align:center;">Betaal aan tinekesieders.nl zodat wij langer kunnen blijven</div>','this');
 			Game.attachTooltip(l('topbarMerch'),'<div style="padding:8px;width:250px;text-align:center;">Doet niks</div>','this');
