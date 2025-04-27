@@ -1335,6 +1335,7 @@ Game.Launch=function()
 	'<div class="title">&bull; BELANGRIJK!!</div>'+
 	'<div class="listing">&bull; Rechtsboven in moet je op de knop "Naar de betere taal gaan" klikken. Als je dat doet klik dan op "Kies deze!!!", Dit is omdat Cookie Clicker kanker code heeft en bijna niks leuk vindt. </div>'+
 	'<div class="title">&bull; Heb je nog ideeën? Stuur het naar info@tinekesieders.nl</div>'+
+	'<div class="title">&bull; Ga naar https://domains.tinekesieders.nl voor meer zoals dit.</div>'+
       
     '</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!! (Alle updates staan in volgorde)</div>'+
@@ -1359,7 +1360,7 @@ Game.Launch=function()
 	'<div class="listing">&bull; Een nieuwe achtergrond van Tineke Sieders met de gang.</div>'+
 	'<div class="listing">&bull; Paar koekjes zijn veranderd.</div>'+
 	'<div class="listing">&bull; 3 Achtergrond namen zijn veranderd naar een meer accurate naam.</div>'+
-	'<div class="listing">&bull; REPLACE</div>'+
+	'<div class="listing">&bull; Nieuwe domains.</div>'+
 	
 	'</div><div class="subsection update">'+
 	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
