@@ -1308,7 +1308,7 @@ Game.Launch=function()
 	
 	Game.updateLog=
 	'<div class="selectable">'+
-	'<div class="section">'+loc("MILF.TINEKESIEDERS.NL UPDATES")+'</div>'+
+	'<div class="section">'+loc("TINEKESIEDERS.NL UPDATES")+'</div>'+
 	'<div class="subsection">'+
     '</div><div class="subsection">'
 	
@@ -1339,7 +1339,7 @@ Game.Launch=function()
 
       
     '</div><div class="subsection update">'+
-	'<div class="title">28/04/2025 - GROTE UPDATE!!! (Alle updates staan in volgorde)</div>'+
+	'<div class="title">06/05/2025 - GROTE UPDATE!!! (Alle updates staan in volgorde)</div>'+
 	'<div class="listing">&bull; Jan Eradus & Banaan Joran toevegoegd, Ideeën? info@tinekesieders.nl</div>'+
 	'<div class="listing">&bull; Nieuwe namen voor omas.</div>'+
 	'<div class="listing">&bull; Op de koekje klikken krijg je nu tinekes, nog niet allemaal. </div>'+
@@ -1366,7 +1366,7 @@ Game.Launch=function()
 	'<div class="listing">&bull; Er zijn nieuwe links toegevoegd helemaal boven aan de site.</div>'+
 	
 	'</div><div class="subsection update">'+
-	'<div class="title">28/04/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
+	'<div class="title">06/05/2025 - GROTE UPDATE!!! (BUGFIXES)</div>'+
 	'<div class="listing">&bull; Saysopensesame werkt half..</div>'+
 	'<div class="listing">&bull; Veel icoontjes waren weg, Allemaal weer gefixed.</div>'+
 	'<div class="listing">&bull; Game was kapot toen ik een naam veranderde... nu niet meer!!</div>'+
