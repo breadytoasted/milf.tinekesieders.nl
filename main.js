@@ -2027,7 +2027,7 @@ Game.Launch=function()
 		
 		Game.externalDataLoaded=false;
 		
-		Game.grandmaNames=['Milfje','Seksslaaf','Tineke Sieders','Jan Eradus','Joran Eradus','Rogier Eradus','Dana Brantley-Sieders','Elly Sakko-Sieders','Renee Sieders','Jody Prak (Sieders)','Ramona Sieders','Jantina De Jonge-Sieders','Michel Eradus','Nina Eradus','Richard Eradus','Obama','Trump','Putin','Xiyang Ling-Ling','Henry De Balhaar','Igor Vladimir Gorbatsjov','Geile Befbever','https://www.facebook.com/tsieders','Geer-truida Lenten','Je moeder heet henk','Je vader heet henk','Easytoys Medewerker','Nikki Tempel','Blauwe 4 kaar van Uno','Kleine worm van Jan','Papa Weg','Nigeria','Niger','Kaasfabriek','henk','Henk-Jan De 45ste','Sexy Sieders', 'Keano van der weide'];
+		Game.grandmaNames=['Milfje','Seksslaaf','Tineke Sieders','Jan Eradus','Joran Eradus','Rogier Eradus','Dana Brantley-Sieders','Elly Sakko-Sieders','Renee Sieders','Jody Prak (Sieders)','Ramona Sieders','Jantina De Jonge-Sieders','Michel Eradus','Nina Eradus','Richard Eradus','Gerry Sieders','Obama','Trump','Putin','Xiyang Ling-Ling','Henry De Balhaar','Igor Vladimir Gorbatsjov','Geile Befbever','https://www.facebook.com/tsieders','Geer-truida Lenten','Je moeder heet henk','Je vader heet henk','Easytoys Medewerker','Nikki Tempel','Blauwe 4 kaar van Uno','Kleine worm van Jan','Papa Weg','Nigeria','Niger','Kaasfabriek','henk','Henk-Jan De 45ste','Sexy Sieders', 'Keano van der weide'];
 		Game.customGrandmaNames=[];
 		Game.heralds=0;
 		
